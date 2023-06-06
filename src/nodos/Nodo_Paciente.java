@@ -1,6 +1,6 @@
 package nodos;
 
-import Objetos.Paciente;
+import objetos.Paciente;
 
 public class Nodo_Paciente {
     private Paciente paciente;

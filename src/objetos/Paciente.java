@@ -1,4 +1,4 @@
-package Objetos;
+package objetos;
 
 import nodos.Nodo_Paciente;
 
